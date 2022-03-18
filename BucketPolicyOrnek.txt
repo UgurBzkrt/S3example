@@ -1,3 +1,4 @@
+#degisiklik yapildi
 Bucket Policies
 Read any anonymous user
 {
